@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Form Submission</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+	<h1>Search Form</h1>
+    <form action="#" th:action="@{/form}" th:object="${search}" method="post">
+    	
+        <p>Zip code: <input type="text" th:field="*{zip}" /></p>
+        <p>Number of Beds: <input type="number" th:field="*{beds}" /></p>
+        <p>Number of Baths: <input type="number" th:field="*{baths}" /></p>
+        <p>Sqft: <input type="text" th:field="*{sqft}" /></p>
+       <!--  <p>Type of house: <input type="text" th:field="*{houseType}" /></p> -->
+        <p>
+        <input type="radio" name="houseType" th:field="*{houseType}" value="SFR" checked> Single Family House<br>
+		  <input type="radio" name="houseType" value="townhome"> TownHome<br>
+		  <input type="radio" name="houseType" value="condo"> Condo<br>
+		  <input type="radio" name="houseType" value="other"> Other<br><br>
+        </p>
+        <p>Amenities: <input type="text" th:field="*{amenities}" /></p>
+        <p>Description: <input type="text" th:field="*{description}" /></p>
+        
+        <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
+    </form>
+</body>
+</html>
