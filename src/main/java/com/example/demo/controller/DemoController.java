@@ -4,6 +4,7 @@ package com.example.demo.controller;
 	import java.io.*;
 import java.net.URLDecoder;
 
+import org.python.util.PythonInterpreter;
 import org.slf4j.Logger;
 	import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,7 +19,9 @@ import org.springframework.stereotype.Controller;
 	import org.springframework.web.bind.annotation.ModelAttribute;
 	import org.springframework.web.bind.annotation.RequestMapping;
 	import org.springframework.web.bind.annotation.RequestMethod;
-	import com.example.demo.model.Search;
+
+import com.example.demo.ml.HelloTensorFlow;
+import com.example.demo.model.Search;
 import com.example.demo.util.MiscUtils;
 
 import java.nio.charset.StandardCharsets;
@@ -102,6 +105,7 @@ import java.util.StringJoiner;
 	        log.info("Calling script just now: "+ String.join(" ", cmds));
 	        util.runScript(cmds);
 	        log.info("Called script just now");
+	        runML(); 
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -109,7 +113,7 @@ import java.util.StringJoiner;
 	        model.addAttribute("search", search);
 	        String info = search.toString();
 	        log.info(info);
-	         
+	        
 	        return "result";
 	    }
 	    
@@ -158,7 +162,10 @@ import java.util.StringJoiner;
 	        return result;
 	    }
 	    
-	    
+	    private void runML() throws UnsupportedEncodingException { 
+	    	HelloTensorFlow htf = new HelloTensorFlow();
+	    			htf.runVersionTest();
+	    }
 	    private String getFilePath(String filename) {
 	        String[][] input = new String[7][4];
 	         
@@ -203,4 +210,13 @@ import java.util.StringJoiner;
 			return f.getPath(); 
 	         
 	    }
+	    
+	    private void runPython() {
+	    	//ScriptEngine python = new ScriptEngineManager().getEngineByName("python");
+	    	//python.eval(stringHere); //script engine runs code
+	    	PythonInterpreter python = new PythonInterpreter();
+	    	
+
+	    }
+	    
 	}
