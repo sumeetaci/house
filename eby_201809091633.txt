@@ -1,0 +1,32 @@
+Argument passed: http://sfbay.craigslist.org/search/eby/apa
+b'\xef\xbb\xbf<!DOCTYPE html>\n<html class="no-js"><head>\n    <title>SF bay area apts/housing for rent  - craigslist</title>\n\n    <meta name="description" content="SF bay area apts/housing for rent  - craigslist">\n    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>\n    <link rel="canonical" href="https://sfbay.craigslist.org/search/eby/apa">\n    <link rel="alternate" type="application/rss+xml" href="https://sfbay.craigslist.org/search/eby/apa?format=rss" title="RSS feed for craigslist | SF bay area apt'
+3000
+This message should go to the log file eby_2018_09_09_16_33.log
+http://sfbay.craigslist.org/search/eby/apa?s=120
+http://sfbay.craigslist.org/search/eby/apa?s=240
+http://sfbay.craigslist.org/search/eby/apa?s=360
+http://sfbay.craigslist.org/search/eby/apa?s=480
+http://sfbay.craigslist.org/search/eby/apa?s=600
+http://sfbay.craigslist.org/search/eby/apa?s=720
+http://sfbay.craigslist.org/search/eby/apa?s=840
+http://sfbay.craigslist.org/search/eby/apa?s=960
+http://sfbay.craigslist.org/search/eby/apa?s=1080
+http://sfbay.craigslist.org/search/eby/apa?s=1200
+http://sfbay.craigslist.org/search/eby/apa?s=1320
+http://sfbay.craigslist.org/search/eby/apa?s=1440
+http://sfbay.craigslist.org/search/eby/apa?s=1560
+http://sfbay.craigslist.org/search/eby/apa?s=1680
+http://sfbay.craigslist.org/search/eby/apa?s=1800
+http://sfbay.craigslist.org/search/eby/apa?s=1920
+http://sfbay.craigslist.org/search/eby/apa?s=2040
+http://sfbay.craigslist.org/search/eby/apa?s=2160
+http://sfbay.craigslist.org/search/eby/apa?s=2280
+http://sfbay.craigslist.org/search/eby/apa?s=2400
+http://sfbay.craigslist.org/search/eby/apa?s=2520
+http://sfbay.craigslist.org/search/eby/apa?s=2640
+http://sfbay.craigslist.org/search/eby/apa?s=2760
+http://sfbay.craigslist.org/search/eby/apa?s=2880
+[$2800]
+Beautiful Moraga Condo
+[<span class="result-price">$2800</span>]
+Error occured for title:  <a class="result-title hdrlnk" data-id="6693567048" href="https://sfbay.craigslist.org/eby/apa/d/beautiful-moraga-condo/6693567048.html">Beautiful Moraga Condo</a>

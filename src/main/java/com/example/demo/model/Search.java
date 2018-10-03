@@ -2,9 +2,11 @@ package com.example.demo.model;
 
 import java.util.List;
 
+import org.json.JSONObject;
+
 public class Search {
-	
-		 
+	 
+	 
 	    private Integer zip;
 	    private String description;
 	    private Integer beds ;
@@ -12,8 +14,10 @@ public class Search {
 	    private Integer sqft ;
 	    private List<String> amenities;
 	    private String houseType;
+	    private String address;
 	    
 	    public Integer getZip() {
+	    	
 	        return zip;
 	    }
 	 
@@ -78,6 +82,14 @@ public class Search {
 
 		public void setHouseType(String houseType) {
 			this.houseType = houseType;
+		}
+
+		public String getAddress() {
+			return address;
+		}
+
+		public void setAddress(String address) {
+			this.address = address;
 		}
 	 
 	}

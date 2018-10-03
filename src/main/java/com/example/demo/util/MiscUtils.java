@@ -7,11 +7,17 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.StringJoiner;
 
+import org.json.JSONObject;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 
 public class MiscUtils {
 
+	public JSONObject getJSON() {
+		JSONObject data = new JSONObject();
+		
+		return data;
+	}
 	 
 	 public  String runCommandForOutput(List<String> params) {
 	        ProcessBuilder pb = new ProcessBuilder(params);

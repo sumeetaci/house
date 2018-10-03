@@ -1,0 +1,508 @@
+Argument passed: http://sfbay.craigslist.org/search/eby/apa
+b'\xef\xbb\xbf<!DOCTYPE html>\n<html class="no-js"><head>\n    <title>SF bay area apts/housing for rent  - craigslist</title>\n\n    <meta name="description" content="SF bay area apts/housing for rent  - craigslist">\n    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>\n    <link rel="canonical" href="https://sfbay.craigslist.org/search/eby/apa">\n    <link rel="alternate" type="application/rss+xml" href="https://sfbay.craigslist.org/search/eby/apa?format=rss" title="RSS feed for craigslist | SF bay area apt'
+3000
+This message should go to the log file eby_2018_09_10_15_38.log
+http://sfbay.craigslist.org/search/eby/apa?s=120
+http://sfbay.craigslist.org/search/eby/apa?s=240
+http://sfbay.craigslist.org/search/eby/apa?s=360
+http://sfbay.craigslist.org/search/eby/apa?s=480
+http://sfbay.craigslist.org/search/eby/apa?s=600
+http://sfbay.craigslist.org/search/eby/apa?s=720
+http://sfbay.craigslist.org/search/eby/apa?s=840
+http://sfbay.craigslist.org/search/eby/apa?s=960
+http://sfbay.craigslist.org/search/eby/apa?s=1080
+http://sfbay.craigslist.org/search/eby/apa?s=1200
+http://sfbay.craigslist.org/search/eby/apa?s=1320
+http://sfbay.craigslist.org/search/eby/apa?s=1440
+http://sfbay.craigslist.org/search/eby/apa?s=1560
+http://sfbay.craigslist.org/search/eby/apa?s=1680
+http://sfbay.craigslist.org/search/eby/apa?s=1800
+http://sfbay.craigslist.org/search/eby/apa?s=1920
+http://sfbay.craigslist.org/search/eby/apa?s=2040
+http://sfbay.craigslist.org/search/eby/apa?s=2160
+http://sfbay.craigslist.org/search/eby/apa?s=2280
+http://sfbay.craigslist.org/search/eby/apa?s=2400
+http://sfbay.craigslist.org/search/eby/apa?s=2520
+http://sfbay.craigslist.org/search/eby/apa?s=2640
+http://sfbay.craigslist.org/search/eby/apa?s=2760
+http://sfbay.craigslist.org/search/eby/apa?s=2880
+[$1735]
+Great Things Are Ahead In Your Future All Here At The Henley
+[<span class="result-price">$1735</span>]
+Error occured
+[$2350]
+Quiet Charming 4Plex apartment in the Upper Laurel
+[<span class="result-price">$2350</span>]
+Error occured
+[$3000]
+Remodel 2Br2Ba Walk to Mission San Jose Elementary  School
+[<span class="result-price">$3000</span>]
+Error occured
+[$895]
+Trailer For Rent
+[<span class="result-price">$895</span>]
+Error occured
+[$1699]
+Spacious  Renovated 1bd1bth Available Now
+[<span class="result-price">$1699</span>]
+Error occured
+[$3195]
+Remodeled 3bd2bth wBackyard WD Living  Dining Room  More
+[<span class="result-price">$3195</span>]
+Error occured
+[$1995]
+Brand New Resort Style 1 Bedroom Richmond Marina Adjacent
+[<span class="result-price">$1995</span>]
+Error occured
+[$2300]
+Large 1 bedroom wHardwood Floors near Gourmet Ghetto  Showing 0913
+[<span class="result-price">$2300</span>]
+Error occured
+[$2200]
+Beautiful Duplex in a Fantastic Location
+[<span class="result-price">$2200</span>]
+Error occured
+[$2338]
+Huge Closet and a Gas Stove  9900 Deposit
+[<span class="result-price">$2338</span>]
+Error occured
+[$2460]
+BEAUTIFUL SPACIOUS 2 BEDROOM IN A PARKLIKE SETTING
+[<span class="result-price">$2460</span>]
+Error occured
+[$1600]
+Benicia 2 bedroom 1 bath Condo
+[<span class="result-price">$1600</span>]
+Error occured
+[$2140]
+Dont Be Fooled by the Others THIS Is THE Place TO BEE Ready SOON
+[<span class="result-price">$2140</span>]
+Error occured
+[$2300]
+Spacious 2 bed 2 bath home with ATTACHED garage Come reserve now
+[<span class="result-price">$2300</span>]
+Error occured
+[$1897]
+BERKELEYSTUDIOCLOSE TO NORTH BERKELEY BART  TRADER JOES
+[<span class="result-price">$1897</span>]
+Error occured
+[$3375]
+MARTINEZ3 BEDROOM2 BATHHARDWOOD FLOORSWASHER  DRYER
+[<span class="result-price">$3375</span>]
+Error occured
+[$2095]
+MARTINEZ2 BEDROOMWASHER  DRYERLARGE YARD
+[<span class="result-price">$2095</span>]
+Error occured
+[$2395]
+ALBANY2 BEDROOMCLOSE TO EL CERRITO PLAZA
+[<span class="result-price">$2395</span>]
+Error occured
+[$2024]
+BEAUTIFUL HILLSIDE SETTING WITH FITNESS CENTER AND TENNIS
+[<span class="result-price">$2024</span>]
+Error occured
+[$2150]
+Clean and Sharp 2bd 1 bath condo on Alcosta San Ramon
+[<span class="result-price">$2150</span>]
+Error occured
+[$3350]
+Very Clean and Sharp  3bd 25 ba end unit with pool in Gale Ranch
+[<span class="result-price">$3350</span>]
+Error occured
+[$2995]
+Dublin near the new Kaiser 3 Bd 2 ba single lvl near hwy 580680 Bart
+[<span class="result-price">$2995</span>]
+Error occured
+[$3481]
+Stop Looking  Start Living in this Sun Drenched One Bedroom
+[<span class="result-price">$3481</span>]
+Error occured
+[$2995]
+Highly Updated and Upgraded
+[<span class="result-price">$2995</span>]
+Error occured
+[$2005]
+You Would Love To Live Here500 Off Your Move In
+[<span class="result-price">$2005</span>]
+Error occured
+[$1400]
+Studio in the Hills Full Kitchen  Bathroom ALL Utilities Included
+[<span class="result-price">$1400</span>]
+Error occured
+[$2050]
+Lease this amazing newly renovated 1x1 yours 199 Deposit OAC
+[<span class="result-price">$2050</span>]
+Error occured
+[$2408]
+Updated With Amazing Natural Light
+[<span class="result-price">$2408</span>]
+Error occured
+[$3012]
+Lady Gaga would go GAGA for this 3 bed2 bath Apartment Home
+[<span class="result-price">$3012</span>]
+Error occured
+[$4481]
+ View from a Beautiful 2 Bedroom in Oaklands Premier High Rise
+[<span class="result-price">$4481</span>]
+Error occured
+[$1800]
+DO NOT WAIT Only A Couple 2Bedrooms Left
+[<span class="result-price">$1800</span>]
+Error occured
+[$2850]
+Quality LivingUnbeatable LocationReady For Move In w 1000 BONUS
+[<span class="result-price">$2850</span>]
+Error occured
+[$4250]
+Luxury condo wpanoramic vu of SF  3 bridges  Waterfront Pool
+[<span class="result-price">$4250</span>]
+Error occured
+[$4172]
+Move in now  get 750 OFF Gorgeous View with This 2x2 Home
+[<span class="result-price">$4172</span>]
+Error occured
+[$2337]
+Beautiful Newly upgraded Two Bedroom One Bath Available Now
+[<span class="result-price">$2337</span>]
+Error occured
+[$2330]
+Modern Apartments Home 2x1 Available Now hayward 
+[<span class="result-price">$2330</span>]
+Error occured
+[$2752]
+Two Bedroom Available Now Dont Miss Out
+[<span class="result-price">$2752</span>]
+Error occured
+[$2310]
+STUDIO12  3 BEDROOM HOMES LIVEWORK PLANS AVAILABLE GAS RANGES
+[<span class="result-price">$2310</span>]
+Error occured
+[$1950]
+Nice Studio close to campus
+[<span class="result-price">$1950</span>]
+Error occured
+[$2525]
+22 In Commuters Paradise Brand New ResortJust N Of emeryville
+[<span class="result-price">$2525</span>]
+Error occured
+[$2757]
+2 bedroom 2 bath in wonderful community  right next to Bart
+[<span class="result-price">$2757</span>]
+Error occured
+[$1025]
+Top Floor Freshly Painted Studio with Wood Floors in Vallejo Downtown
+[<span class="result-price">$1025</span>]
+Error occured
+[$3350]
+Top Floor Apartment with InUnit Washer  Dryer
+[<span class="result-price">$3350</span>]
+Error occured
+[$2382]
+Amazing One Bedroom Ready Just For You
+[<span class="result-price">$2382</span>]
+Error occured
+[$1250]
+Studio for Childcare 1250mo on Private Level with Views
+[<span class="result-price">$1250</span>]
+Error occured
+[$1507]
+Public Transportation Walk in Closets Near Shopping Centers
+[<span class="result-price">$1507</span>]
+Error occured
+[$2077]
+LOWEST PRICES YET 1x1 in Gorgeous pet friendly community
+[<span class="result-price">$2077</span>]
+Error occured
+[$1650]
+Dont Miss Out on This CUTE APARTMENT HOME Now Leasing
+[<span class="result-price">$1650</span>]
+Error occured
+[$2295]
+Ashby Bart loft Nomad Cafewood floors 180 degree view redwood deck
+[<span class="result-price">$2295</span>]
+Error occured
+[$2214]
+Modern Newly Renovated OneBedroom in the Heart of Pleasanton
+[<span class="result-price">$2214</span>]
+Error occured
+[$3593]
+5 Weeks Free Rent  199 Move In Deposit YES Will Not Last
+[<span class="result-price">$3593</span>]
+Error occured
+[$3635]
+Awesome 2 Bedroom Custom Finishes Great Location  Coming Soon
+[<span class="result-price">$3635</span>]
+Error occured
+[$2495]
+Hardwood Floors Central Heat Gated parking Close to BART
+[<span class="result-price">$2495</span>]
+Error occured
+[$3018]
+Come live at Pleasanton Glen in Your Spacious 3 Bedroom Apartment Home
+[<span class="result-price">$3018</span>]
+Error occured
+[$2850]
+Charming Pleasant Hill One Story Home
+[<span class="result-price">$2850</span>]
+Error occured
+[$1025]
+Top Floor Freshly Painted Studio with Wood Floors in Vallejo Downtown
+[<span class="result-price">$1025</span>]
+Error occured
+[$2399]
+Terrific Location 2bd2bth Move In Ready
+[<span class="result-price">$2399</span>]
+Error occured
+[$1709]
+ Pittsburg Apartment Homes Air Conditioner Gated Community
+[<span class="result-price">$1709</span>]
+Error occured
+[$1675]
+Large Studio Walkin closet Kitchen with dining area Bay Windows
+[<span class="result-price">$1675</span>]
+Error occured
+[$2500]
+Furnished luxury finishes   Upper Rockridge  huge private deck and
+[<span class="result-price">$2500</span>]
+Error occured
+[$1699]
+Our Two Bedrooms Coming Available In September
+[<span class="result-price">$1699</span>]
+Error occured
+[$2000]
+2 BEDS  2 BATHS Newly Remodeled
+[<span class="result-price">$2000</span>]
+Error occured
+[$1200]
+Tracy Bedroom One Bath with large Garage
+[<span class="result-price">$1200</span>]
+Error occured
+[$2601]
+0 Bed  1 Bath 25 LiveWork Lofts 2 Blocks to Bart
+[<span class="result-price">$2601</span>]
+Error occured
+[$2890]
+WOW Right Next To Bart  Easy Access T0 880 Whatchu Waiting For
+[<span class="result-price">$2890</span>]
+Error occured
+[$2700]
+Spacious 2 bedroom in great neighborhood
+[<span class="result-price">$2700</span>]
+Error occured
+[$1699]
+Unique Locations To Choose From For These 2x1s
+[<span class="result-price">$1699</span>]
+Error occured
+[$2601]
+Bright 3rd Floor with Pool View 2x2 Coming soon
+[<span class="result-price">$2601</span>]
+Error occured
+[$3499]
+Charming LocationNear Parks RestaurantsEntertainment Rent Now
+[<span class="result-price">$3499</span>]
+Error occured
+[$2752]
+2 Bedroom 2 Bathroom 1180 sq ft Flat Great Storage Space
+[<span class="result-price">$2752</span>]
+Error occured
+[$3545]
+Beautiful 3 bedroom home in a quiet Fremont home
+[<span class="result-price">$3545</span>]
+Error occured
+[$1765]
+1BD 1BA Playground In Select Apartment Homes
+[<span class="result-price">$1765</span>]
+Error occured
+[$2762]
+2 Story 1BedLOFT Live Downtown Concord this September
+[<span class="result-price">$2762</span>]
+Error occured
+[$2487]
+Spacious Top Floor 2x2 Classic Style Private Balcony Full WD Pool
+[<span class="result-price">$2487</span>]
+Error occured
+[$1695]
+OPEN HOUSE Tuesday Sept 12 2018 500 PM to 700 PM Studio 1695
+[<span class="result-price">$1695</span>]
+Error occured
+[$2739]
+Renovated 2x1 with Washer and Dryer Pet friendly
+[<span class="result-price">$2739</span>]
+Error occured
+[$4199]
+Beautiful house in central Temescal whardwood floors and back yard
+[<span class="result-price">$4199</span>]
+Error occured
+[$2501]
+Living is easy in our newly renovated apartments near BART
+[<span class="result-price">$2501</span>]
+Error occured
+[$2584]
+First Floor Close to Parking Move in Ready 99 Deposit
+[<span class="result-price">$2584</span>]
+Error occured
+[$2625]
+Within minutes of Livermores Finest Wineries 1000 off 1st Mo
+[<span class="result-price">$2625</span>]
+Error occured
+[$2049]
+1 Bed1 Bath  Starting from 560 SqFt  Sparkling Swimming Pool
+[<span class="result-price">$2049</span>]
+Error occured
+[$2662]
+Lafayette Price Reduction and 1000 OFF Your 1st months Rent
+[<span class="result-price">$2662</span>]
+Error occured
+[$1875]
+Ground floor w extra large patio and storage unit  Covered assigned parking W
+[<span class="result-price">$1875</span>]
+Error occured
+[$1501]
+1 BEDROOM 1 BATH  UPGRADED KITCHEN  NEW FLOORING  PRICE DROP
+[<span class="result-price">$1501</span>]
+Error occured
+[$3400]
+Lease Today Free Rent thru Oct 1stFree Bike Raffle150 Rideshare Cr
+[<span class="result-price">$3400</span>]
+Error occured
+[$1585]
+PET FRIENDLY AND HAS FULL SIZED WASHER DRYER
+[<span class="result-price">$1585</span>]
+Error occured
+[$2150]
+Watergate One bedroom in Courtyard
+[<span class="result-price">$2150</span>]
+Error occured
+[$2300]
+Emeryville One Bedroom  Watergate
+[<span class="result-price">$2300</span>]
+Error occured
+[$3485]
+Spacious 2Bed 2Bath Move In this SeptemberDowntown Concord
+[<span class="result-price">$3485</span>]
+Error occured
+[$1998]
+Endless Summer Pool Fun at Park Crossing
+[<span class="result-price">$1998</span>]
+Error occured
+[$2415]
+Beautiful 1x1 with WasherDryer  Available Now
+[<span class="result-price">$2415</span>]
+Error occured
+[$1893]
+Ceramic Tile Entry Kitchens  Baths Fireplace Poolside BBQs
+[<span class="result-price">$1893</span>]
+Error occured
+[$2577]
+Lafayette Huge Price Cut Today
+[<span class="result-price">$2577</span>]
+Error occured
+[$2899]
+3 bedroom with 2 balconies available now Stop by today for a tour
+[<span class="result-price">$2899</span>]
+Error occured
+[$1990]
+DONT YOU WANT TO BE A HOP SKIP  A JUMP AWAY FROM EVERYTHING
+[<span class="result-price">$1990</span>]
+Error occured
+[$2673]
+Lafayette  1000 off your 1st months rent PRICE REDUCTION
+[<span class="result-price">$2673</span>]
+Error occured
+[$2295]
+1x1 Available 915 Upgraded withWD in Unit Walk to BART
+[<span class="result-price">$2295</span>]
+Error occured
+[$2965]
+ PET FRIENDLY   99 Deposit
+[<span class="result-price">$2965</span>]
+Error occured
+[$3600]
+Must See Immaculate Modern 3 bedroom 3 Bath Townhome
+[<span class="result-price">$3600</span>]
+Error occured
+[$3744]
+Courtyard View Large Floor Plan With Lots Of Storage Modern Style
+[<span class="result-price">$3744</span>]
+Error occured
+[$1999]
+Sizzling Specials 1999 2x1 Hurry in TODAY
+[<span class="result-price">$1999</span>]
+Error occured
+[$2222]
+OUR AMENITIES CANT BE BEAT POOL FITNESS CENTER CLUBHOUSE  MORE
+[<span class="result-price">$2222</span>]
+Error occured
+[$1995]
+ENJOY TOMORROW EVEN MORE WHEN YOU RENT WITH REDWOOD GROVE ITS A SCORE
+[<span class="result-price">$1995</span>]
+Error occured
+[$1750]
+1 bedroom apt 1750 Ready 9618 MUST SEE Available NOW
+[<span class="result-price">$1750</span>]
+Error occured
+[$2899]
+Dreamy bright spacious 1x1 close to everything ParkView
+[<span class="result-price">$2899</span>]
+Error occured
+[$1750]
+LocationWalk distance to BART downtown shopping area  to UCB
+[<span class="result-price">$1750</span>]
+Error occured
+[$2595]
+Trendy spotless simply stunning 1x1 with pets allowed Montgomery 107
+[<span class="result-price">$2595</span>]
+Error occured
+[$2299]
+Close to Countless freeways Pets welcomed Wonderful large 2x1Ellis
+[<span class="result-price">$2299</span>]
+Error occured
+[$1750]
+Beautiful sunny cheerful large studio clos to Bart California
+[<span class="result-price">$1750</span>]
+Error occured
+[$2631]
+Lafayette  1000 off your 1st months rent HUGE PRICE CUT
+[<span class="result-price">$2631</span>]
+Error occured
+[$2965]
+99 Deposit Walk to BART Spacious 2Bed 2Bath
+[<span class="result-price">$2965</span>]
+Error occured
+[$850]
+Charming Awesome Studio with an Affordable Rate Foothill
+[<span class="result-price">$850</span>]
+Error occured
+[$2595]
+ONE AT THIS PRICE Upgraded 2x2 with WasherDryer in El Cerrito
+[<span class="result-price">$2595</span>]
+Error occured
+[$1750]
+1 bedroom apt 1750 Ready 92618
+[<span class="result-price">$1750</span>]
+Error occured
+[$1860]
+Brand new carpet Large private patio w extra storage  Full size Washer 
+[<span class="result-price">$1860</span>]
+Error occured
+[$2445]
+Gated Garden Apartment Community in East Bay
+[<span class="result-price">$2445</span>]
+Error occured
+[$2995]
+Renovated Unit  BerkeleyOakland Border  Near BART  Views
+[<span class="result-price">$2995</span>]
+Error occured
+[$2695]
+Amazing Opportunity To Live In Downtown  San Leandro
+[<span class="result-price">$2695</span>]
+Error occured
+[$1709]
+ Apartments In the middle of Pittsburg Car Port Washer and Dryer
+[<span class="result-price">$1709</span>]
+Error occured
+[$2424]
+Spacious 1B 1B A Commuters Dream Home
+[<span class="result-price">$2424</span>]
+Error occured
